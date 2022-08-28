@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("git");
         System.out.println("push");
         System.out.println("hello java");
+        项目更新
     }
 }
